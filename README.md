@@ -1,5 +1,15 @@
-## Hi there 👋
+## I'm Shawn, a software engineer who leans towards frontend.
+Do swing by my profile if you're interested.
 
+### Tech Stact
+- React
+- Bun
+- Next.js
+- Tailwind CSS
+and so on
+
+### My recent vibe
+Designing website frameworks, messing around with TanStact Start.
 <!--
 **ShawnSeek/ShawnSeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
